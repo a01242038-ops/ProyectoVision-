@@ -1,2 +1,2 @@
 # ProyectoVision-
-Actividades de Herramientas Computacionales 
+Actividades de Herramientas Computacionales
